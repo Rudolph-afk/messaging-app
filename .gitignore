@@ -102,3 +102,21 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Python
+__pycache__/
+
+# Runtime
+*.js.*
+
+# Secrets
+base.json
+config.json
+send_sms.py
+db.sqlite3
+
+# SASS for now
+scss/
+
+# npm
+package-lock.json
